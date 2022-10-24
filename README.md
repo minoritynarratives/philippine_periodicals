@@ -1,2 +1,2 @@
 # Contents
-This is a repository of Philippine periodicals in English and Tagalog. 
+This folder contains English-language periodicals from https://repository.mainlib.upd.edu.ph/
