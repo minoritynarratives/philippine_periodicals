@@ -4,7 +4,7 @@ https://repository.mainlib.upd.edu.ph/.
 
 The files are listed below, followed by their language (English/Filipino/Spanish) and time period (SCP = Spanish Colonial Period (1877-10 December 1898); 
 ACP = American Colonial Period (11 December 1898 - July 4 1946);
-IP = Independent Period(July 5 1946-1973)).
+IP = Independence Period(July 5 1946-1973)).
 
 
 ## Spanish Colonial Period (1877-10 December 1898)
@@ -193,7 +193,7 @@ Excelsior	September 20, 1929,   Spanish	ACP
 
 Excelsior 	September 20, 1929,   Spanish	ACP 
 
-## Independent Period(July 5 1946-1973)
+## Independence Period (July 5 1946-1973)
 
 Adult Education in Action 	February 1951 (IX.1), March 1951 (IX.2), May 1951 (IX.3), July 1951 (IX.4), September 1951 (IX.5), November 1951 (IX.6), January 1950 (VIII.1), May 1950 (VIII.3), September 1950 (VIII.5), November 1950 (VIII.6),   English	IP
 
