@@ -8,6 +8,14 @@ ACP = American Colonial Period (11 December 1898 - July 4 1946);
 IP = Independence Period(July 5 1946-1973)).
 
 
+The repository also contains:
+
+> A combined stopwords list sourced from https://algs4.cs.princeton.edu/35applications/stopwords.txt (English),  https://github.com/stopwords-iso/stopwords-tl/commit/39b8f37a571bfe76bf0f7bd22f19f91b4af76699 (Tagalog), (https://raw.githubusercontent.com/stopwords-iso/stopwords-es/master/stopwords-es.txt) (Spanish - both with and without diacritics for words shared between Spanish, English and Tagalog);
+
+> A combined lemma list for the minority narratives project based on the Spanish lemma list in https://www.laurenceanthony.net/software/antconc/; 
+
+>  Gephi visualizations for Spanish and English for the target minorities in the corpus.
+
 ## Spanish Colonial Period (1877-10 December 1898)
 
 El Bello Sexo	April 7 1891 (I.13) , June 23 1891 (I.23), 31 May 1891 (I.12), October 28 1891 (I.40), June 30 1891 (I.24), February 28 1891 (I.8), September 14 (I.34) 1891, August 21 (I.31), May 15 (I.18), 21 April (I.15),   Spanish	SCP
