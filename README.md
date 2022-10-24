@@ -1,5 +1,6 @@
 # Philippine Periodicals
-This repository contains the raw .txt files of English, Filipino, and Spanish periodicals from 1877 to 1973. Parts of this collection can be found on 
+This repository contains the raw .txt files of English, Filipino, and Spanish periodicals from 1877 to 1973. Titles found on the top and bottom of each page
+were excised from the raw files, while diacritics were removed from the English and Filipino subcorpora. Parts of this collection can be found on 
 https://repository.mainlib.upd.edu.ph/. 
 
 The files are listed below, followed by their language (English/Filipino/Spanish) and time period (SCP = Spanish Colonial Period (1877-10 December 1898); 
