@@ -6,7 +6,6 @@ The files are listed below, followed by their language (English/Filipino/Spanish
 ACP = American Colonial Period (11 December 1898 - July 4 1946);
 IP = Independent Period(July 5 1946-1973)).
 
-#Index of Periodicals
 
 ## Spanish Colonial Period (1877-10 December 1898)
 
