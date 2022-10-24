@@ -9,7 +9,9 @@ IP = Independent Period(July 5 1946-1973)).
 Index of Periodicals:
 
 American Oldtimer	October 1935 (II.12), November 1935 (III.1), April 1936 (III.6), January 1940 (VII.3), February 1940 (VII.4), 	English	ACP
+
 Minerva	July 1 1920 (I.1)	English	ACP
+
 The American Chamber of Commerce Journal	Jan 1929 (IX.1) - December 1929 (IX.12)	English	ACP
 gossips and scandals	September 29 1934 (25)	English	ACP
 Adult Education in Action 	December 1938 (I.6), June 1939 (II.6)	English	ACP
