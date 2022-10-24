@@ -3,6 +3,8 @@ This repository contains the raw .txt files of English, Filipino, and Spanish pe
 were excised from the raw files, while diacritics were removed from the English and Filipino subcorpora. Parts of this collection can be found on 
 https://repository.mainlib.upd.edu.ph/. 
 
+It also contains a combined stopwords list sourced from https://algs4.cs.princeton.edu/35applications/stopwords.txt (English),  https://github.com/stopwords-iso/stopwords-tl/commit/39b8f37a571bfe76bf0f7bd22f19f91b4af76699 (Tagalog), (https://raw.githubusercontent.com/stopwords-iso/stopwords-es/master/stopwords-es.txt) (Spanish - both with and without diacritics for words shared between Spanish, English and Tagalog), a combined lemma list for the minority narratives project based on the Spanish lemma list in https://www.laurenceanthony.net/software/antconc/, and Gephi visualizations for Spanish and English for the target minorities in the corpus.
+
 The files are listed below, followed by their language (English/Filipino/Spanish) and time period (SCP = Spanish Colonial Period (1877-10 December 1898); 
 ACP = American Colonial Period (11 December 1898 - July 4 1946);
 IP = Independence Period(July 5 1946-1973)).
