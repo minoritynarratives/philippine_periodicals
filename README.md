@@ -10,31 +10,54 @@ Index of Periodicals:
 
 American Oldtimer	October 1935 (II.12), November 1935 (III.1), April 1936 (III.6), January 1940 (VII.3), February 1940 (VII.4), 	English	ACP
 
-Minerva	July 1 1920 (I.1)	English	ACP
+Minerva	July 1 1920 (I.1),	English	ACP
 
-The American Chamber of Commerce Journal	Jan 1929 (IX.1) - December 1929 (IX.12)	English	ACP
-gossips and scandals	September 29 1934 (25)	English	ACP
-Adult Education in Action 	December 1938 (I.6), June 1939 (II.6)	English	ACP
-Guerilla	August 15 1945 (II.22)	English	ACP
-The Freeman	June 7 1945 (I.5)	English	ACP
-Graphic	January 30 1936 (IX.33)	English	ACP
-Graphic	September 7, 1933	English	ACP
-Graphic	February 6 1936 (IX.34)	English	ACP
-Graphic	February 13 1936 (IX.35)	English	ACP
-Graphic	February 20 1936 (IX.36)	English	ACP
-Graphic	February 27 1936 (IX.37)	English	ACP
-Graphic	March 5 1936 (IX.38)	English	ACP
-Graphic	March 12 1936 (IX.39)	English	ACP
-Graphic	May 14 1936 (IX.48)	English	ACP
-Graphic	May 21 1936 (IX.49)	English	ACP
-Graphic	May 28 1936 (IX.50)	English	ACP
-Graphic	June 4 1936 (IX.51)	English	ACP
-Graphic	September 3 1936 (X.12)	English	ACP
-Graphic	July 2 1936 (X.3)	English	ACP
-Graphic	January 4, 1934	English	ACP
-Graphic	May 5, 1936	English	ACP
-Khaki and Red	July 1933 (VIII.7), May 1932 (VII.5), Aug 1935 (XV.8)	English	ACP
-Boletin de la Camara de Comercio Filipina	April 1905 (II.20)	Spanish	ACP
+The American Chamber of Commerce Journal	Jan 1929 (IX.1) - December 1929 (IX.12),	English	ACP
+
+gossips and scandals	September 29 1934 (25), 	English	ACP
+
+Adult Education in Action 	December 1938 (I.6), June 1939 (II.6), 	English	ACP
+
+Guerilla	August 15 1945 (II.22), 	English	ACP
+
+The Freeman	June 7 1945 (I.5),  English	ACP
+
+Graphic	January 30 1936 (IX.33),	English	ACP
+
+Graphic	September 7, 1933, 	English	ACP
+
+Graphic	February 6 1936 (IX.34),  	English	ACP
+
+Graphic	February 13 1936 (IX.35), 	English	ACP
+
+Graphic	February 20 1936 (IX.36), 	English	ACP
+
+Graphic	February 27 1936 (IX.37), 	English	ACP
+
+Graphic	March 5 1936 (IX.38), 	English	ACP
+
+Graphic	March 12 1936 (IX.39), 	English	ACP
+
+Graphic	May 14 1936 (IX.48),    English	ACP
+
+Graphic	May 21 1936 (IX.49),  	English	ACP
+
+Graphic	May 28 1936 (IX.50),  	English	ACP
+
+Graphic	June 4 1936 (IX.51),  	English	ACP
+
+Graphic	September 3 1936 (X.12), 	English	ACP
+
+Graphic	July 2 1936 (X.3),  	English	ACP
+
+Graphic	January 4, 1934,  	English	ACP
+
+Graphic	May 5, 1936,   English	ACP
+
+Khaki and Red	July 1933 (VIII.7), May 1932 (VII.5), Aug 1935 (XV.8),  	English	ACP
+
+Boletin de la Camara de Comercio Filipina	April 1905 (II.20),   	Spanish	ACP
+
 Boletin Oficial de la Camara de Comercio Espanola en Filipinas	June 1905 (II.20), August 1907 (IV.46)	Spanish	ACP
 Domus Aurea	July (I.2)-Sep (I.4) 1908	Spanish	ACP
 El Arte Taquigrafico	May 23, 1907	Spanish	ACP
