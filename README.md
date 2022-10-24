@@ -1,4 +1,4 @@
-# philippine_periodicals
+# Philippine Periodicals
 This repository contains the raw .txt files of English, Filipino, and Spanish periodicals from 1877 to 1973. Parts of this collection can be found on 
 https://repository.mainlib.upd.edu.ph/. 
 
@@ -6,7 +6,53 @@ The files are listed below, followed by their language (English/Filipino/Spanish
 ACP = American Colonial Period (11 December 1898 - July 4 1946);
 IP = Independent Period(July 5 1946-1973)).
 
-Index of Periodicals:
+#Index of Periodicals
+
+## Spanish Colonial Period (1877-10 December 1898)
+
+El Bello Sexo	April 7 1891 (I.13) , June 23 1891 (I.23), 31 May 1891 (I.12), October 28 1891 (I.40), June 30 1891 (I.24), February 28 1891 (I.8), September 14 (I.34) 1891, August 21 (I.31), May 15 (I.18), 21 April (I.15),   Spanish	SCP
+
+El Diablillo Suelto	June 15 1893 (I.9),   Spanish	SCP
+
+El Oriente	Jan 1 1877 (III.1),   Spanish	SCP
+
+Filipinas ante Europa	October 25 1899 (I.1), November 10 1899 (I.2), November 25 1899 (I.3), December 10 1899 (I.4), December 30 1899 (I.5), January 10 1900 (II.6), January 25 1900 (II.7), June 25 1900 (II.17), July 10 1900 (II.18), July 25 1900 (II.19), August 10 1900 (II.20), August 21 1900 (II.21), September 10 1900 (II.22), September 25 1900 (II.23), October 10 1900 (II.24), October 25 1900 (II.25), November 10 1900 (II.26), November 25 (II.27), December 10 1900 (II.28),, December 25 1900 (II.29),  Spanish	SCP
+
+La ilustración del oriente	Oct. 7  1877 (I.1) , Oct. 14 1877 (I.2), Oct. 21 1877 (I.3), Oct. 28 1877 (I.4), Nov. 4 1877 (I.5),  Nov. 11 1877 (I.6),  Spanish	SCP
+
+La Malasia	Dec 10 1898 (I.1),  Spanish	SCP
+
+La Puya	August 8 1892 (I.1), August 16 1892 (I.2), August 24 1892 (I.3), September 1 1892 (I.4), October 1 1892 (I.8), October 10 1892 (I.8), October 20 1892 (I.9), November 1 1892 (I.10), November 10 1892 (I.11), November 20 1892 (I.12), December 10 1892 (I.14), February 1 1893 (I.19).   Spanish	SCP
+
+Revista Popular de Filipinas	September 1, 1888,  	Spanish	SCP
+
+El Heraldo de la Revolucion	January 1 1899 (I.1),   Spanish	SCP
+
+El Heraldo de la Revolucion	January 19 1899 (II.6),   Spanish	SCP
+
+El Heraldo de la Revolucion	January 22 1899 (II.7),   	Spanish	SCP
+
+El Heraldo de la Revolucion	November 27 1898 (I.18),  Spanish	SCP
+
+El Heraldo de la Revolucion	December 1 1898 (I.19),   Spanish	SCP
+
+El Heraldo de la Revolucion	December 8 1898 (I.21),   Spanish	SCP
+
+El Heraldo de la Revolucion	December 11 1898 (I22),   Spanish	SCP
+
+El Heraldo de la Revolucion	December 15 1898 (I.23),  Spanish	SCP
+
+El Heraldo de la Revolucion	December 18 1898 (I.24),  Spanish	SCP
+
+El Heraldo de la Revolucion	December 22 1898 (I.25),  Spanish	SCP
+
+El Heraldo de la Revolucion	December 25 1898 (I.26),  Spanish	SCP
+
+El Heraldo de la Revolucion	December 29 1898 (I.27),  Spanish	SCP
+
+La Pavera	March 26 1892 (I.2), April 10 1892 (I.5),  April 17 (I.7), April 24 (I.8),  Spanish	SCP 
+
+## American Colonial Period (11 December 1898 - July 4 1946)
 
 American Oldtimer	October 1935 (II.12), November 1935 (III.1), April 1936 (III.6), January 1940 (VII.3), February 1940 (VII.4), 	English	ACP
 
@@ -148,6 +194,8 @@ Excelsior	September 20, 1929,   Spanish	ACP
 
 Excelsior 	September 20, 1929,   Spanish	ACP 
 
+## Independent Period(July 5 1946-1973)
+
 Adult Education in Action 	February 1951 (IX.1), March 1951 (IX.2), May 1951 (IX.3), July 1951 (IX.4), September 1951 (IX.5), November 1951 (IX.6), January 1950 (VIII.1), May 1950 (VIII.3), September 1950 (VIII.5), November 1950 (VIII.6),   English	IP
 
 Ateneo Quarterly	August 1949 (I.1), October 1949 (I.2), December 1949 (I.3), March 1950 (I.4), August 1950 (II.1), October 1950 (II.2), August 1951 (III.1), October 1951 (III.1),   English	IP
@@ -184,44 +232,3 @@ Ilang-Ilang	October 12 1947 (II.52),  Tagalog/Filipino	IP
 
 Silahis	January 1 1949 (IV.17),   Tagalog/Filipino	IP
 
-El Bello Sexo	April 7 1891 (I.13) , June 23 1891 (I.23), 31 May 1891 (I.12), October 28 1891 (I.40), June 30 1891 (I.24), February 28 1891 (I.8), September 14 (I.34) 1891, August 21 (I.31), May 15 (I.18), 21 April (I.15),   Spanish	SCP
-
-El Diablillo Suelto	June 15 1893 (I.9),   Spanish	SCP
-
-El Oriente	Jan 1 1877 (III.1),   Spanish	SCP
-
-Filipinas ante Europa	October 25 1899 (I.1), November 10 1899 (I.2), November 25 1899 (I.3), December 10 1899 (I.4), December 30 1899 (I.5), January 10 1900 (II.6), January 25 1900 (II.7), June 25 1900 (II.17), July 10 1900 (II.18), July 25 1900 (II.19), August 10 1900 (II.20), August 21 1900 (II.21), September 10 1900 (II.22), September 25 1900 (II.23), October 10 1900 (II.24), October 25 1900 (II.25), November 10 1900 (II.26), November 25 (II.27), December 10 1900 (II.28),, December 25 1900 (II.29),  Spanish	SCP
-
-La ilustración del oriente	Oct. 7  1877 (I.1) , Oct. 14 1877 (I.2), Oct. 21 1877 (I.3), Oct. 28 1877 (I.4), Nov. 4 1877 (I.5),  Nov. 11 1877 (I.6),  Spanish	SCP
-
-La Malasia	Dec 10 1898 (I.1),  Spanish	SCP
-
-La Puya	August 8 1892 (I.1), August 16 1892 (I.2), August 24 1892 (I.3), September 1 1892 (I.4), October 1 1892 (I.8), October 10 1892 (I.8), October 20 1892 (I.9), November 1 1892 (I.10), November 10 1892 (I.11), November 20 1892 (I.12), December 10 1892 (I.14), February 1 1893 (I.19).   Spanish	SCP
-
-Revista Popular de Filipinas	September 1, 1888,  	Spanish	SCP
-
-El Heraldo de la Revolucion	January 1 1899 (I.1),   Spanish	SCP
-
-El Heraldo de la Revolucion	January 19 1899 (II.6),   Spanish	SCP
-
-El Heraldo de la Revolucion	January 22 1899 (II.7),   	Spanish	SCP
-
-El Heraldo de la Revolucion	November 27 1898 (I.18),  Spanish	SCP
-
-El Heraldo de la Revolucion	December 1 1898 (I.19),   Spanish	SCP
-
-El Heraldo de la Revolucion	December 8 1898 (I.21),   Spanish	SCP
-
-El Heraldo de la Revolucion	December 11 1898 (I22),   Spanish	SCP
-
-El Heraldo de la Revolucion	December 15 1898 (I.23),  Spanish	SCP
-
-El Heraldo de la Revolucion	December 18 1898 (I.24),  Spanish	SCP
-
-El Heraldo de la Revolucion	December 22 1898 (I.25),  Spanish	SCP
-
-El Heraldo de la Revolucion	December 25 1898 (I.26),  Spanish	SCP
-
-El Heraldo de la Revolucion	December 29 1898 (I.27),  Spanish	SCP
-
-La Pavera	March 26 1892 (I.2), April 10 1892 (I.5),  April 17 (I.7), April 24 (I.8),  Spanish	SCP 
