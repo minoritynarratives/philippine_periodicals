@@ -1,7 +1,8 @@
 # Philippine Periodicals
 This repository contains the raw .txt files of English, Filipino, and Spanish periodicals from 1877 to 1973. Titles found on the top and bottom of each page
 were excised from the raw files, while diacritics were removed from the English and Filipino subcorpora. Parts of this collection can be found on 
-https://repository.mainlib.upd.edu.ph/. 
+https://repository.mainlib.upd.edu.ph/ and were digitized with a VLIRUOS-TEAM project called "Strengthening Digital Research at the University of the Philippines system: digitization of Philippine rare newspapers and magazines (1850-1945), and training in Digital Humanities". They are physically held at University of the Philippines Diliman Campus. The project was developed jointly by the University of Antwerp and the University of the Philippines.
+Part of the newspapers and magazines in Spanish come from the library of the Colegio Seminario of the Agustinos in Valladolid (Spain) and from Hemeroteca Municipal de Madrid, and they were digitized by Rocío Ortuño and Cristina Guillén thanks to a small project of the University of Antwerp funded by the Bijzonders Onderzoek Fonds of the University of Antwerp. The project was titled "Philippines at the crossroads: mapping the international presence in the Philippine literary field in Spanish between 1872 and 1945."
 
 The files are listed below, followed by their language (English/Filipino/Spanish) and time period (SCP = Spanish Colonial Period (1877-10 December 1898); 
 ACP = American Colonial Period (11 December 1898 - July 4 1946);
