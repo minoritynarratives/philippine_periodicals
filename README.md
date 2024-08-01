@@ -16,7 +16,11 @@ The repository also contains:
 
 > A combined lemma list for the minority narratives project based on the Spanish lemma list in https://www.laurenceanthony.net/software/antconc/; 
 
->  Gephi visualizations for Spanish and English for the target minorities in the corpus.
+>  Gephi visualizations for Spanish and English for the target minorities in the corpus. Please use the figure citation: Cruz, Frances, and Rocío Ortuño Casanova. Forthcoming. “A Century of Media Representations of Muslim and Chinese Minorities in the Philippines (1870s-1970s).” Southeast Asian Studies.
+
+
+>  Word2Vec visualizations for word embeddings in similarities for the target minorities in the corpus. Please use the figure citation: Cruz, Frances, and Rocío Ortuño Casanova. Forthcoming. “A Century of Media Representations of Muslim and Chinese Minorities in the Philippines (1870s-1970s).” Southeast Asian Studies.
+
 
 ## Spanish Colonial Period (1877-10 December 1898)
 
